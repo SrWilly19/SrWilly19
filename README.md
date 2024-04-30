@@ -21,6 +21,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript)&nbsp;
 ![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=Node.js)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3)&nbsp;
+![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-grey?style=for-the-badge&logo=visual%20studio%20code)&nbsp;
 ![]()&nbsp;
 <!--
 **SrWilly19/SrWilly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
