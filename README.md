@@ -23,7 +23,7 @@
 ![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=Node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-grey?style=for-the-badge&logo=sass)&nbsp;
 ![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)&nbsp;
