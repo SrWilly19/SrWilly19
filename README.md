@@ -14,7 +14,7 @@
 🌱 &nbsp;Actualmente me encuentro aprendiendo de manera autodidacta PHP y COBOL.\
 ✍️ &nbsp;En mi tiempo libre leo comics, paso el tiempo con mi gente y llevo una cuenta de tiktok sobre comics.\
 💬 &nbsp;No dudes en ponerte en contacto conmigo para cualquier oferta de trabajo ya que actualmente estoy en busqueda activa.\
-✉️ &nbsp;¡Puedes enviarme un correo a [wahcoral.dev@gmail.com](mailto:wahcoral.dev@gmail.com)!.\
+✉️ &nbsp;¡Puedes enviarme un correo a [wahcoral.dev@gmail.com](mailto:wahcoral.dev@gmail.com)!.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 <!--
