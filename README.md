@@ -19,6 +19,7 @@
 ## 🛠 &nbsp;Tech Stack
 ### Mas utilizados actualmente:
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=Node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML5)&nbsp;
