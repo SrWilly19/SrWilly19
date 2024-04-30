@@ -11,11 +11,12 @@
 
 💡 &nbsp;Me gusta mucho aprender sobre nuevas tecnologias y estar actualizado en cuanto a todas las tecnologias que utilizo.\
 🎓 &nbsp;Actualmente he finalizado mis estudios en desarrollo full stack y estoy enfocando mi carrera hacia esta direccion.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+🌱 &nbsp;Actualmente me encuentro aprendiendo de manera autodidacta PHP y COBOL.\
+✍️ &nbsp;En mi tiempo libre leo comics, paso el tiempo con mi gente y llevo una cuenta de tiktok sobre comics.\
+💬 &nbsp;No dudes en ponerte en contacto conmigo para cualquier oferta de trabajo ya que actualmente estoy en busqueda activa.\
+✉️ &nbsp;¡Puedes enviarme un correo a [wahcoral.dev@gmail.com](mailto:wahcoral.dev@gmail.com)!\
+<!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
+
 <!--
 **SrWilly19/SrWilly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
