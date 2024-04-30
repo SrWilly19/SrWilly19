@@ -7,7 +7,7 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 <!--
 **SrWilly19/SrWilly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
