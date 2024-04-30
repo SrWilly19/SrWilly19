@@ -16,7 +16,7 @@
 ✉️ &nbsp;¡Puedes enviarme un correo a [wahcoral.dev@gmail.com](mailto:wahcoral.dev@gmail.com)!.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
-## 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 <!--
 **SrWilly19/SrWilly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
