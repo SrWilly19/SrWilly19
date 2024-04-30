@@ -27,7 +27,7 @@
 ![SASS](https://img.shields.io/badge/SASS-grey?style=for-the-badge&logo=sass)&nbsp;
 ![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-grey?style=for-the-badge&logo=visual%20studio%20code)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-grey?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
 ![]()&nbsp;
 <!--
 **SrWilly19/SrWilly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
