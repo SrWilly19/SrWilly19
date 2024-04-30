@@ -18,7 +18,8 @@
 
 ## 🛠 &nbsp;Tech Stack
 ### Mas utilizados actualmente:
-![JavaScript](https://img.shields.io/badge/JavaScript-39C732?style=for-the-badge&logo=JavaScript)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript)&nbsp;
+![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React)&nbsp;
 <!--
 **SrWilly19/SrWilly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
