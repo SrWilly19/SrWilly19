@@ -1,6 +1,9 @@
 <div align="center">
  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/wahc/">Willy</a> 👋</h1>
 </div>
+<p align="center">
+ <a href="https://github.com/SrWilly19"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=39F731&random=false&width=435&lines=Desarrollador+Full-Stack;Front-End;Back-End;Desarrollador+de+videojuegos+2D%2F3D" alt="Typing SVG" />
+</p>
 <!--
 **SrWilly19/SrWilly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
