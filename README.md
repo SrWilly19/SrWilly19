@@ -20,6 +20,8 @@
 ### Mas utilizados actualmente:
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript)&nbsp;
 ![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=Node.js)&nbsp;
+![]()&nbsp;
 <!--
 **SrWilly19/SrWilly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
