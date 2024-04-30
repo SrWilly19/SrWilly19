@@ -17,6 +17,8 @@
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 ## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-39C732?style=for-the-badge&logo=JavaScript)&nbsp;
 <!--
 **SrWilly19/SrWilly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
