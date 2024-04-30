@@ -9,8 +9,8 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
-💡 &nbsp; Me gusta mucho aprender sobre nuevas tecnologias y estar actualizado en cuanto a todas las tecnologias que utilizo.\
-🎓 &nbsp; Actualmente he finalizado mis estudios en desarrollo full stack y estoy enfocando mi carrera hacia esta direccion.\
+💡 &nbsp;Me gusta mucho aprender sobre nuevas tecnologias y estar actualizado en cuanto a todas las tecnologias que utilizo.\
+🎓 &nbsp;Actualmente he finalizado mis estudios en desarrollo full stack y estoy enfocando mi carrera hacia esta direccion.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
