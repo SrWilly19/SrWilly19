@@ -37,6 +37,7 @@
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&logo=C%2B%2B)&nbsp;
 
+## ⚙️ &nbsp;GitHub Analytics
 <!--
 **SrWilly19/SrWilly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
