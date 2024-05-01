@@ -29,6 +29,12 @@
 ![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-grey?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
 ![]()&nbsp;
+
+### Otros conocidos no tan utilizados ahora mismo:
+![Unity 3D](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity)&nbsp;
+![]()&nbsp;
+![]()&nbsp;
+![]()&nbsp;
 <!--
 **SrWilly19/SrWilly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
