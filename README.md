@@ -32,9 +32,11 @@
 
 ### Otros conocidos no tan utilizados ahora mismo:
 ![Unity 3D](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity)&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
+![Java](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
+![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)&nbsp;
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=C)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&logo=C%2B%2B)&nbsp;
+
 <!--
 **SrWilly19/SrWilly19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
