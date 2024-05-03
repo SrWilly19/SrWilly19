@@ -28,12 +28,12 @@
 ![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-grey?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
+![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)&nbsp;
 ![]()&nbsp;
 
 ### Otros conocidos no tan utilizados ahora mismo:
 ![Unity 3D](https://img.shields.io/badge/Unity-grey?style=for-the-badge&logo=unity)&nbsp;
 ![Java](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
-![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)&nbsp;
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&logo=C%2B%2B)&nbsp;
 
