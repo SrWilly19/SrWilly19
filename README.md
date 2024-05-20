@@ -27,6 +27,7 @@
 ![SASS](https://img.shields.io/badge/SASS-grey?style=for-the-badge&logo=sass)&nbsp;
 ![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-grey?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
 ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python)&nbsp;
 ![]()&nbsp;
