@@ -10,7 +10,7 @@
 
 💡 &nbsp;Me gusta mucho aprender sobre nuevas tecnologias y estar actualizado en cuanto a todas las tecnologias que utilizo.\
 🎓 &nbsp;Actualmente he finalizado mis estudios en desarrollo full stack y estoy enfocando mi carrera hacia esta direccion.\
-🌱 &nbsp;Actualmente me encuentro aprendiendo de manera autodidacta PHP, COBOL y mejorando mis habilidades en Flutter Flow.\
+🌱 &nbsp;Actualmente me encuentro aprendiendo de manera autodidacta PHP, COBOL y mejorando mis habilidades en FlutterFlow.\
 ✍️ &nbsp;En mi tiempo libre leo comics, paso el tiempo con mi gente y llevo una cuenta de tiktok sobre comics.\
 💬 &nbsp;No dudes en ponerte en contacto conmigo para cualquier oferta de trabajo ya que actualmente estoy en busqueda activa.\
 ✉️ &nbsp;¡Puedes enviarme un correo a [wahcoral.dev@gmail.com](mailto:wahcoral.dev@gmail.com)!.
