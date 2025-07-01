@@ -18,8 +18,10 @@
 ### Proyectos para empresas:
 Kova Builder: He trabajado en la mejora y optimizacion de las paginas web de esta empresa asi como su implementacion de estrategias SEO tanto on-page como off-page. Tambien he estado acargo de los ONP y la supervision para poder abrir todas las paginas web para diferentes mercados. Todas las paginas mencionadas acontinuacion pertenecen a Kova Builder:
 
-- 🤝 &nbsp;https://sofkredit.com/es Abierto en todos los mercados con diferentes estrategias para diferentes mercados. (FR/IT/ES) \
-- 
+- 🤝 &nbsp; https://sofkredit.com/es Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimizacion y SEO. (FR/IT/ES) 
+- 🌟 &nbsp; https://finandon.com/es Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimizacion y SEO. (ES/PT)
+- 🏅 &nbsp; https://kreditiweb.com/es Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimizacion y SEO. (ES/FR/IT/DE/MX)
+- 🛠️ &nbsp; https://preslo.com/es Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimizacion y SEO. (ES/MX)
 
 ## 🛠 &nbsp;Tech Stack.
 ### Mas utilizados actualmente:
