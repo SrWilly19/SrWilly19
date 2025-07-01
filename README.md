@@ -16,7 +16,7 @@
 ✉️ &nbsp;¡Puedes enviarme un correo a [wahcoral.dev@gmail.com](mailto:wahcoral.dev@gmail.com)!.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 ### Proyectos para empresas:
-Kova Builder: \
+Kova Builder: Se ha trabajado en la mejora y optimizacion de las paginas web de esta empresa asi como su implementacion de estrategias SEO tanto on-page como off-page 
 ## 🛠 &nbsp;Tech Stack
 ### Mas utilizados actualmente:
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript)&nbsp;
