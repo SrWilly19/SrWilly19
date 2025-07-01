@@ -6,7 +6,7 @@
 </p>
 
 
-## **Sobre mi**
+## 📈 **Sobre mi**
 
 💡 &nbsp;Me gusta mucho aprender sobre nuevas tecnologias y estar actualizado en cuanto a todas las tecnologias que utilizo.\
 🎓 &nbsp;Actualmente he finalizado mis estudios en desarrollo full stack y estoy enfocando mi carrera hacia esta direccion.\
@@ -15,7 +15,8 @@
 💬 &nbsp;No dudes en ponerte en contacto conmigo para cualquier oferta de trabajo ya que actualmente estoy en busqueda activa.\
 ✉️ &nbsp;¡Puedes enviarme un correo a [wahcoral.dev@gmail.com](mailto:wahcoral.dev@gmail.com)!.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
-
+### Proyectos para empresas:
+Kova Builder: \
 ## 🛠 &nbsp;Tech Stack
 ### Mas utilizados actualmente:
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript)&nbsp;
