@@ -16,12 +16,27 @@
 ✉️ &nbsp;¡Puedes enviarme un correo a [wahcoral.dev@gmail.com](mailto:wahcoral.dev@gmail.com)!.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 ### Proyectos para empresas:
-Kova Builder: He trabajado en la mejora y optimizacion de las paginas web de esta empresa asi como su implementacion de estrategias SEO tanto on-page como off-page. Tambien he estado acargo de los ONP y la supervision para poder abrir todas las paginas web para diferentes mercados. Todas las paginas mencionadas a continuación pertenecen a Kova Builder:
+Kova Builder: He trabajado en la mejora y optimizacion de las paginas web de esta empresa asi como su implementacion de estrategias SEO tanto on-page como off-page. Tambien he estado acargo de los ONP y la supervision para poder abrir todas las paginas web para diferentes mercados. Todas las paginas mencionadas a continuación pertenecen a Kova Builder y en las que he participado:
 
 - 🤝 &nbsp; https://sofkredit.com/es Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimización y SEO. (FR/IT/ES) 
 - 🌟 &nbsp; https://finandon.com/es Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimización y SEO. (ES/PT)
 - 🏅 &nbsp; https://kreditiweb.com/es Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimización y SEO. (ES/FR/IT/DE/MX)
 - 🛠️ &nbsp; https://preslo.com/es Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimización y SEO. (ES/MX)
+
+Be On Retail: Desarrollo Web e IA : Maquetación a medida (HMTL5 , CSS3, JS) en WordPress y co-desarrolo de “Salud 360” (plataforma médica con IA y gamificación).
+WPO & SEO Técnico: Optimización de COre Web Vitals (minificación, WebP y fuentes asíncronas), logrando puntuaciones de 100/100 en SEO y subiendo rendimientos críticos de 49 a 92.
+Stack: WordPress, SQL, JavaScript, HTML5, CSS3, SEO On-Page, Integración de APIs. He colaborado y realizado las siguiente paginas:
+
+- 🤝 &nbsp; [https://centroauditivorebecaayala.com/](https://www.centroauditivorebecaayala.com/) Se realizan modificaciones en la pagina para respetar el estandar SEO y mejoras para aumentar la puntuacion SEO. 
+- 🌟 &nbsp; [https://macsony.es/](https://macsony.es/) Se realizan modificaciones para respetar el estandar SEO y mejoras para aumentar la puntuacion SEO.
+- 🏅 &nbsp; [https://sonibelaudinea.com/](https://sonibelaudinea.com/) Se realizan modificaciones para mejorar varios aspectos de la pagina. Se realizan las mejoras pertinentes para aumentar la puntuacion SEO.
+- 🛠️ &nbsp; [https://centroauditivoperea.com/](https://centroauditivoperea.com/) Se realiza esta landing page entera, con el objetivo de atraer mas clientes.
+- 🤝 &nbsp; [https://opticaspereavision.es/](https://opticaspereavision.es/) Se realiza esta landing page entera, con el objetivo de atraer mas clientes.
+- 🏅 &nbsp; [https://auralcepedalchiclana.com/](https://auralcepedalchiclana.com/) Se realiza toda la pagina, respetando el SEO y aplicando las mejoras pertinentes.
+- 🏅 &nbsp; [https://www.funsavi.es/](https://www.funsavi.es/) Se realizan correcciones en la pagina en cuanto a elementos que no funcionaban y practicas poco recomendadas.
+- 🤝 &nbsp; [https://www.cnoo.es/](https://www.cnoo.es/) Se realizan correcciones en la pagina en cuanto a elementos que no funcionaban y practicas poco recomendadas.
+- 🛠️ &nbsp; [https://lagafetina.com/plan-cuidado-audiologia/](https://lagafetina.com/plan-cuidado-audiologia/)  Se realiza esta landing page entera, con el objetivo de atraer mas clientes.
+- 🌟 &nbsp; [https://www.revistagacetaudio.es/](https://www.revistagacetaudio.es/) Se realiza el mantenimiento, correccion y subida de archivos para su revista.
 
 ## 🛠 &nbsp;Tech Stack.
 ### Mas utilizados actualmente:
