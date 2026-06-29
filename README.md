@@ -38,6 +38,22 @@ Stack: WordPress, SQL, JavaScript, HTML5, CSS3, SEO On-Page, Integración de API
 - 🛠️ &nbsp; [https://lagafetina.com/plan-cuidado-audiologia/](https://lagafetina.com/plan-cuidado-audiologia/)  Se realiza esta landing page entera, con el objetivo de atraer mas clientes.
 - 🌟 &nbsp; [https://www.revistagacetaudio.es/](https://www.revistagacetaudio.es/) Se realiza el mantenimiento, correccion y subida de archivos para su revista.
 
+### Proyectos personales:
+- 🎓 &nbsp; https://replica-pancake-swap.vercel.app/ Se realiza esta replica de la pagina de pancake swap con todos los elemntos interactivos y los ajustes necesarios para que sea funcional.
+
+## 🚀 Proyecto Destacado: Grand Line Birth
+
+¿Alguna vez te has preguntado qué capítulo de One Piece se publicó exactamente el día que naciste? Desarrollé esta aplicación para resolver esa duda de la comunidad de forma interactiva y optimizada.
+
+*   **🔗 Aplicación en vivo:** [grand-line-birth.vercel.app](https://grand-line-birth.vercel.app/)
+*   **🛠️ Tecnologías:** React, Vite, Tailwind CSS, Node.js (Web Scraping).
+*   **💡 Desafíos resueltos:**
+    *   **Extracción de datos (JSON):** Creación de scripts personalizados en Node.js para compilar y limpiar una base de datos con más de 1100 capítulos (arcos, tomos, fechas y títulos).
+    *   **Monetización:** Integración estratégica de Amazon Afiliados de forma automatizada mediante URLs dinámicas según el tomo consultado.
+    *   **Rendimiento:** Optimización de carga de imágenes en formato moderno `.webp` y maquetación de una UI premium responsiva con temática oscura.
+
+---
+
 ## 🛠 &nbsp;Tech Stack.
 ### Mas utilizados actualmente:
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript)&nbsp;
