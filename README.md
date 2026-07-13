@@ -20,7 +20,7 @@ Kova Builder: He trabajado en la mejora y optimizacion de las paginas web de est
 
 - 🤝 &nbsp; https://sofkredit.com/es Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimización y SEO. (FR/IT/ES) 
 - 🌟 &nbsp; https://finandon.com/es Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimización y SEO. (ES/PT)
-- 🏅 &nbsp; https://kreditiweb.com/es Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimización y SEO. (ES/FR/IT/DE/MX)
+- 🏅 &nbsp; [https://kreditiweb.com/es](https://kreditiweb.com/es) Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimización y SEO. (ES/FR/IT/DE/MX)
 - 🛠️ &nbsp; https://preslo.com/es Abierto en todos los mercados con diferentes estrategias para cada uno de ellos. Mejoras en cuanto a optimización y SEO. (ES/MX)
 
 Be On Retail: Desarrollo Web e IA : Maquetación a medida (HMTL5 , CSS3, JS) en WordPress y co-desarrolo de “Salud 360” (plataforma médica con IA y gamificación).
