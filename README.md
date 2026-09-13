@@ -88,7 +88,7 @@ Stack: WordPress, SQL, JavaScript, HTML5, CSS3, SEO On-Page, Integración de API
 ## 🤝🏻 &nbsp;Contactame
 
 <p align="center">
-<a href="https://www.linkedin.com/in/wahc/"><img src="https://img.shields.io/badge/-Wellington%20Hidalgo%20Coral-grey?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://mi-portfolio-web-theta.vercel.app/"><img src="https://img.shields.io/badge/-Wellington%20Hidalgo%20Coral-grey?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:wahcoral.dev@gmail.com"><img src="https://img.shields.io/badge/-wahcoral.dev@gmail.com-grey?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
